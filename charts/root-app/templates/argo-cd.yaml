@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/arthurk/argocd-example-install.git
+    repoURL: https://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:x-oauth-basic@github.com/shanakrs/argocd-workouts.git
     path: charts/argo-cd
     targetRevision: HEAD
   destination:
